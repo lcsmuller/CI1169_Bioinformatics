@@ -1,0 +1,14 @@
+# Ignore all
+*
+# But these
+!.gitignore
+!README.md
+!newdb/
+!newdb/*.fasta
+!patients/
+!patients/*
+!patients/*/*.fasta
+!build.sh
+!docs/
+!docs/*
+!generate_plots.py
