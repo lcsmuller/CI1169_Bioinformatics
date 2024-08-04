@@ -1,0 +1,17 @@
+gene,cell_type
+CD8A,T
+CD3D,T
+CD3E,T
+CD19,B
+CD79A,B
+MS4A1,B
+CD14,Myeloid
+CD163,Myeloid
+EPCAM,Epithelial
+KRT18,Epithelial
+KRT19,Epithelial
+KLRD1,NK
+IL2RB,NK
+THY1,Stromal
+ENG,Stromal
+VWF,Stromal

@@ -1,0 +1,15 @@
+# Ignore all
+*
+# But these
+!.gitignore
+!docs
+!docs/*
+!results
+!results/.gitkeep
+!samples
+!samples/*
+!samples/**/*.gz
+!generate_plots.py
+!README.md
+!extract_gene_positions.py
+!cell_markers.csv
